@@ -1,0 +1,1 @@
+C:\Projects\properties_indexers\properties_indexers\bin\Debug\properties_indexers.exe.config
